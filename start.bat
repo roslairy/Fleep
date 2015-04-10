@@ -1,0 +1,2 @@
+./compile
+./index.html

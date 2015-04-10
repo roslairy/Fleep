@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/poker/poker.js" />
+        <item url="file://$PROJECT_DIR$/src/resource.js" />
+        <item url="file://$PROJECT_DIR$/src/game.js" />
+        <item url="file://$PROJECT_DIR$/main.js" />
+        <item url="file://$PROJECT_DIR$/src/app.js" />
+        <item url="file://$PROJECT_DIR$/src/poker/pokerArea.js" />
+        <item url="file://$PROJECT_DIR$/src/level.js" />
+        <item url="file://$PROJECT_DIR$/src/utils/utils.js" />
+        <item url="file://$PROJECT_DIR$/src/ui/ui.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/poker/poker.js" />
+      <root url="file://$PROJECT_DIR$/src/resource.js" />
+      <root url="file://$PROJECT_DIR$/src/game.js" />
+      <root url="file://$PROJECT_DIR$/src/poker/pokerArea.js" />
+      <root url="file://$PROJECT_DIR$/src/app.js" />
+      <root url="file://$PROJECT_DIR$/main.js" />
+      <root url="file://$PROJECT_DIR$/src/level.js" />
+      <root url="file://$PROJECT_DIR$/src/utils/utils.js" />
+      <root url="file://$PROJECT_DIR$/src/ui/ui.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

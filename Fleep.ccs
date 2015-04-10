@@ -1,0 +1,20 @@
+<Solution>
+  <PropertyGroup Name="Fleep" Version="2.1.2.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <PlistInfo Name="atlas_game.csi" Type="Plist" />
+        <File Name="Aaargh.ttf" />
+        <Image Name="blue.png" />
+        <Image Name="green.png" />
+        <Image Name="left.png" />
+        <Image Name="purple.png" />
+        <Image Name="red.png" />
+        <Image Name="refresh.png" />
+        <Image Name="right.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

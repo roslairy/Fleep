@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="atlas_game" ID="d1840f3d-2d20-4208-81cf-659bce17da8f" Version="2.1.2.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="blue.png" />
+      <FilePathData Path="green.png" />
+      <FilePathData Path="left.png" />
+      <FilePathData Path="purple.png" />
+      <FilePathData Path="red.png" />
+      <FilePathData Path="refresh.png" />
+      <FilePathData Path="right.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
